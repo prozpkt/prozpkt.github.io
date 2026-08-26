@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="assets/portrait.svg" alt="Anas Jameel Dot-Matrix Portrait" width="340" />
+  <img src="assets/portrait.svg" alt="prozpkt Dot-Matrix Portrait" width="340" />
   
   <br /><br />
 
-  # Anas Jameel
+  # prozpkt
   
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
   </div>
 
-  ### 🚀 Shipping Apps & Training Models
+  ### I need that caffeine inside my code
   
   **Solo Developer • React Native Specialist • AI Enthusiast**
 
   <br />
 
-  <a href="https://www.linkedin.com/in/anas-jameel-167s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28" alt="LinkedIn"/>
+  <a href="https://www.instagram.com/srthk.m" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=ffffff" height="28" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://x.com/AnasJameel300" target="_blank">
+  <a href="https://x.com/s4rthkk" target="_blank">
     <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" height="28" alt="X"/>
   </a>
   &nbsp;
-  <a href="mailto:anasjameel300@gmail.com" target="_blank">
+  <a href="mailto:s4rthkk@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" height="28" alt="Email"/>
   </a>
 
@@ -31,18 +31,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a **Software Engineer** who prefers shipping products over just writing code. I specialize in building cross-platform mobile ecosystems and understanding the business side of deployment.
+I'm a Software Developer and Penetration tester. I enjoy exploiting websites : )
 
-* 📱 **Currently:** Leveraging **React Native** to publish production-ready Android apps to the Play Store.
-* 🧠 **AI Focus:** Fascinated by **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
-* 💼 **Experience:** Transitioned from Kotlin/Native Android to a modern cross-platform stack (React/Next.js/Vite).
-* 🤝 **Collaboration:** Open to collaborating on **Machine Learning** research and ambitious app ideas.
-
+• Currently: Building cross-platform mobile applications with React Native.
+• Security Focus: Primarily focused on Penetration Testing, web security, and understanding how systems can be secured.
+• AI Enthusiast: Exploring Artificial Intelligence, experimenting with AI tools, and keeping up with the latest developments in the field.
+• Development: Experienced with React, Next.js, Vite, Kotlin, and React Native.
+• Collaboration: Open to working on interesting security, AI, and software development projects.
 ---
 
-### 📡 Technical Capability & Skills Radar
+### Technical Capability & Skills Radar
 
 <div align="center">
   <img src="assets/skills.svg" alt="Technical Capability & Skill Radar" width="100%" />
@@ -51,17 +51,42 @@ I'm a **Software Engineer** who prefers shipping products over just writing code
 
 ---
 
-### 🛠️ Core Tooling & Technologies
+### Core Tooling & Technologies
 
 <div align="center">
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Mobile & App Dev** | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,android,expo&theme=dark" /> |
-| **Web Development** | <img src="https://skillicons.dev/icons?i=nextjs,ts,vite,tailwind,html,css&theme=dark" /> |
-| **AI & Python** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&theme=dark" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" /> |
+| **Mobile & App Dev** | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,android,expo&theme=dark" />
 
+**Web Development** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind,html,css&theme=dark" />
+
+**Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql&theme=dark" />
+
+**AI & Python** | <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+**Cybersecurity & Pentesting** | <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell&theme=dark" />
+
+**Networking** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+
+**DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,vercel&theme=dark" />
+
+**Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,windows,linux&theme=dark" /> /> |
+
+
+--- 
+
+<div align="center">
+
+# Cybersecurity: Penetration Testing · Web Security · API Security · Vulnerability Assessment · Reconnaissance · OWASP · Burp Suite · Nmap · Metasploit · Wireshark · Gobuster · SQLMap
+
+# Networking: TCP/IP · DNS · HTTP/HTTPS · SSH · FTP · DHCP · VPN · Subnetting · Firewalls · Ports & Protocols · Network Scanning · Packet Analysis
+
+# DevOps: Docker · Nginx · CI/CD · GitHub Actions · Linux Administration · Reverse Proxy · Deployment · VPS · Environment Configuration · SSL/TLS
+
+# Tools: Git · GitHub · VS Code · Postman · Wireshark · Burp Suite · Nmap · Metasploit · Figma · Bash · PowerShell · Linux CLI
+
+</div>
 </div>
 
 ---
@@ -74,13 +99,7 @@ I'm a **Software Engineer** who prefers shipping products over just writing code
 
 ---
 
-### ⚡ Engineering Showcase & Performance
 
-<div align="center">
-  <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />
-</div>
-
----
 
 ### 🎮 The Human Side
 

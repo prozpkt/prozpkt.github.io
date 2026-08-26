@@ -20,7 +20,7 @@ def load_config(config_path="config.yml"):
         return yaml.safe_load(f) or {}
 
 
-def fetch_github_contributions(username="anasjameel300"):
+def fetch_github_contributions(username="s4rthkk"):
     url = f"https://github.com/users/{username}/contributions"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     try:
@@ -88,7 +88,7 @@ def generate_bezier_path(points):
 
 def generate_contributions_svg(config_path="config.yml", output_path="assets/contributions.svg"):
     config = load_config(config_path)
-    username = config.get("github_username", "anasjameel300")
+    username = config.get("github_username", "s4rthkk")
     
     contrib_data = fetch_github_contributions(username)
     

@@ -22,7 +22,7 @@ def load_config(config_path="config.yml"):
         return yaml.safe_load(f) or {}
 
 
-def fetch_bento_metrics(username="anasjameel300"):
+def fetch_bento_metrics(username="s4rthkk"):
     total_year = "665"
     contrib_url = f"https://github.com/users/{username}/contributions"
     try:
@@ -75,7 +75,7 @@ def fetch_bento_metrics(username="anasjameel300"):
 
 def generate_bento_svg(config_path="config.yml", output_path="assets/bento.svg"):
     config = load_config(config_path)
-    username = config.get("github_username", "anasjameel300")
+    username = config.get("github_username", "s4rthkk")
     
     metrics = fetch_bento_metrics(username)
     
