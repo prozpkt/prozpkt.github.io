@@ -15,9 +15,9 @@
 
   <br />
 
-  <p align="center">
+ <p align="center">
   <a href="https://guns.lol/srthk">
-    <img src="https://img.shields.io/badge/guns.lol-161b22?style=for-the-badge&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Socials-161b22?style=for-the-badge&logoColor=ffffff" />
   </a>
 </p>
 
