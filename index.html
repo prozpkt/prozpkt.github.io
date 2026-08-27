@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#050505">
+  <meta name="description" content="prozpkt — Penetration Tester • Software Developer • AI Enthusiast">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <title>prozpkt — developer / pentester</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Syne:wght@400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <video id="bg-video" autoplay muted loop playsinline aria-hidden="true">
+    <source src="bg.mp4" type="video/mp4">
+  </video>
+  <audio id="audio" src="High On You.mp3" loop></audio>
+
+  <nav class="nav">
+    <a class="brand" href="#home" data-page="home">welcome</a>
+    <div class="nav-links">
+      <button class="nav-btn active" data-page="home">Home</button>
+      <button class="nav-btn" data-page="about">About</button>
+      <button class="nav-btn" data-page="contact">Contact</button>
+    </div>
+    
+  </nav>
+
+  <main class="container">
+    <!-- HOME -->
+    <section class="page active" id="home">
+      <div class="home-grid">
+        <div class="home-copy">
+          <div class="profile-image">
+            <img src="pfp.jpg" alt="prozpkt profile">
+          </div>
+          <h1><span class="typing-text">prozpkt</span><span class="cursor">|</span></h1>
+          <p class="home-role">Penetration Tester <i>•</i> Software Developer <i>•</i> AI Enthusiast</p>
+          <p class="home-lead">I build and I break.</p>
+          <div class="social-links">
+            <a href="https://github.com/prozpkt" target="_blank" rel="noopener" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://discord.com/users/prozpkt" target="_blank" rel="noopener" aria-label="Discord"><i class="fa-brands fa-discord"></i></a>
+            <a href="https://instagram.com/srthk.m" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://guns.lol/srthk" target="_blank" rel="noopener" aria-label="guns.lol"><i class="fa-solid fa-gun fa-rotate-45"></i></a>
+          </div>
+        </div>
+        <div class="home-side">
+          <div class="home-note">
+            <p>understanding how systems fail, and exploiting them.</p>
+            <button class="text-link" data-page="about">More about me <i class="fa-solid fa-arrow-right"></i></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="page" id="about">
+      <div class="simple-head">
+        <p class="kicker">About</p>
+        <h2>Developer &amp;<br><em>penetration tester.</em></h2>
+        <p class="page-intro">caffeine in my code.</p>
+      </div>
+
+      <div class="about-copy">
+        
+        
+      </div>
+
+      <div class="section-label"><span>Tech stack</span><i></i></div>
+      <div class="skill-list">
+        <div class="skill-row"><b>Python</b><div class="bar"><i style="--w:70%"></i></div><strong>70%</strong></div>
+        <div class="skill-row"><b>Java / Kotlin</b><div class="bar"><i style="--w:60%"></i></div><strong>60%</strong></div>
+        <div class="skill-row"><b>React Native</b><div class="bar"><i style="--w:60%"></i></div><strong>60%</strong></div>
+        <div class="skill-row"><b>Git</b><div class="bar"><i style="--w:70%"></i></div><strong>70%</strong></div>
+        <div class="skill-row"><b>Next.js / React</b><div class="bar"><i style="--w:60%"></i></div><strong>60%</strong></div>
+        <div class="skill-row"><b>Networking</b><div class="bar"><i style="--w:70%"></i></div><strong>70%</strong></div>
+        <div class="skill-row"><b>Penetration Testing</b><div class="bar"><i style="--w:65%"></i></div><strong>65%</strong></div>
+        <div class="skill-row"><b>MongoDB</b><div class="bar"><i style="--w:50%"></i></div><strong>50%</strong></div>
+      </div>
+
+      <div class="section-label projects-label"><span>Some work I've done</span><i></i></div>
+      <div class="project-grid">
+        <a class="project-card featured" href="https://stryde-client.netlify.app" target="_blank" rel="noopener"><span class="project-type">Stryde Client</span><h3>Performance-focused Minecraft client <i class="fa-solid fa-arrow-up-right-from-square"></i></h3><p>Features, optimization and a clean interface, and yes I've used AI in this.</p></a>
+        <a class="project-card" href="https://hackclubbersai.netlify.app" target="_blank" rel="noopener"><span class="project-type">HackClub AI</span><h3>AI chat interface <i class="fa-solid fa-arrow-up-right-from-square"></i></h3><p>A web chat experience built with the HackClub API.</p></a>
+        <a class="project-card" href="https://acadelyy.netlify.app/" target="_blank" rel="noopener"><span class="project-type">Acadely</span><h3>Student platform <i class="fa-solid fa-arrow-up-right-from-square"></i></h3><p>Classes, assignments, grades and collaboration.</p></a>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="page" id="contact">
+      <div class="simple-head contact-head">
+        <p class="kicker">Contact</p>
+        <h2>Collaborate</em></h2>
+        <p class="page-intro">For projects, collaborations, security discussions or just something interesting, send me a message.</p>
+      </div>
+
+      <div class="contact-grid">
+        <a class="email-cta" href="mailto:s4rthk@hotmail.com"><span>s4rthk@prozpkt.com</span><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <div class="contact-links">
+          <a href="https://github.com/prozpkt" target="_blank" rel="noopener"><span>GitHub</span><small>@prozpkt</small></a>
+          <a href="https://discord.com/users/prozpkt" target="_blank" rel="noopener"><span>Discord</span><small>@prozpkt</small></a>
+          <a href="https://instagram.com/srthk.m" target="_blank" rel="noopener"><span>Instagram</span><small>@srthk.m</small></a>
+        </div>
+      </div>
+      <footer><span>prozpkt.</span></footer>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
